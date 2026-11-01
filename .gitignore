@@ -8,4 +8,4 @@ dist
 test-results
 playwright-report
 *.log
-standvault/scanner/output
+StandVault - All Steps.xlsx
